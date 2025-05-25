@@ -1,0 +1,11 @@
+{
+  "name": "dobotus-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node parseLocalPdf.js"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
